@@ -1,0 +1,1 @@
+interface Elektriker { public String lampeWechseln(); }
