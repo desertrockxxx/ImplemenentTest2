@@ -5,12 +5,15 @@ public class Main {
         IndustrieKlempner hans = new IndustrieKlempner("Hans");
 
 
+        // Bob der Normalo kann nur darüber sprechen
         System.out.println(bob.rohrVerlegen());
         System.out.println(bob.lampeWechseln());
 
+        // Peter der Talentierte kann es tatsächlich
         peter.rohrVerlegen();
         peter.lampeWechseln();
 
+        // Hans der IndustrieKlempner kann es besser, doch nur Klempner Tätigkeiten
         System.out.println(hans.rohrVerlegen());
 
 

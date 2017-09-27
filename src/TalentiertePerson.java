@@ -1,3 +1,4 @@
+/*Der Talentierte KANN es, doch er ist nicht gelernt, deswegen RETURNt er es*/
 class TalentiertePerson extends Mensch implements Elektriker, Klempner {
     public        TalentiertePerson(String name) { super(name); }
 
