@@ -1,4 +1,4 @@
-/*Jeder erbt von hier*/
+/*Jeder erbt von hier */
 public class Mensch {
     private String name;
 
