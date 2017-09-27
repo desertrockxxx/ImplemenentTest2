@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         TalentiertePerson bob = new TalentiertePerson("Bob");
         Normalo peter = new Normalo("Peter");
-        Industrieller hans = new Industrieller("Hans");
+        IndustrieKlempner hans = new IndustrieKlempner("Hans");
 
 
         System.out.println(bob.rohrVerlegen());
